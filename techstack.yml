@@ -2,7 +2,7 @@ repo_name: Seddryck/prql
 report_id: e8ab1a4bcbb410019700853f09b1a5d5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:48:22+00:00'
+timestamp: '2024-02-29T18:41:06+00:00'
 requested_by: aljazerzen
 provider: github
 branch: main
@@ -308,7 +308,7 @@ tools:
   last_updated_by: Jonathan
   last_updated_on: 2023-09-17 22:24:57.000000000 Z
 - name: Nix
-  description: 'A package manager for Linux and other Unix systems '
+  description: A package manager for Linux and other Unix systems
   website_url: http://nixos.org/nix
   license: LGPL-2.1
   open_source: true
